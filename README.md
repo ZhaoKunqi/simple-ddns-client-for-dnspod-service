@@ -4,7 +4,7 @@
 
 Using this Python script it's not recommend if your Homelab(or any other use case) server is out side china(ccp china).
 
-If you are outside mainland china(ccp china) for example taiwan(Republic of China), it's better to use CloudFlare API for your application.
+If your server that need DDNS are outside mainland china(ccp china) for example taiwan(Republic of China), it's better to use CloudFlare API for your application.
 
 ![ddns_example_01](https://user-images.githubusercontent.com/110202952/186743035-5257c06f-03ea-453e-9fed-5608509d3330.jpg)
 
